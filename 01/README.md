@@ -4,13 +4,13 @@ This week is all about getting the environments set up: Slack, Reclaim Hosting (
 
 **This Week's Video**
 
-- <>
+- <https://youtu.be/7G3VJjn3AI8>
 
 **Assignment**
 
 All parts of the assignment are discussed in the intro video above.
 
-Part 1: Say "hi" in Slack by writing a blurb about yourself in the General channel.
+Part 1: Say "hi" in Slack by writing a blurb about yourself in the Social channel.
 
 Part 2: Create or re-familiarize yourself with your Reclaim Hosting account <https://reclaimhosting.com> (or another hosting account if you have one).
 

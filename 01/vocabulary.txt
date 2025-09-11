@@ -5,3 +5,4 @@ redaction
 metadata
 fork
 plus
+desktop

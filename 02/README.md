@@ -12,7 +12,7 @@ All parts of the assignment are discussed in the intro video above.
 
 Part 1: Upstream sync your DIG540 repository with the main repository.
 
-Part 2: Read the short blog post *What are the important differences between DAM and CMS?* by Casey Schmidt: <https://www.canto.com/blog/dam-vs-cms/>.
+Part 2: Read the short blog post *What are the important differences between DAM and CMS?* by Stephanie Erbesfield: <https://www.canto.com/blog/dam-vs-cms/>.
 
 Part 3: In Slack's #dam-cms channel, write a blurb about a Digital Asset Management or Content Management System that you are familiar with, and how it is being used by you or others. Be critical of the software if lacks certain features, or glowing about it if it meets your needs. If you don't see the #dam-cms channel in Slack, DM Craig to get invited there.
 
